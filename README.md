@@ -3,8 +3,8 @@ $ <i>pkg update && pkg upgrade</i><br>
 $ <i>pkg install git</i><br>
 $ <i>pkg install python2</i><br>
 $ <i>pkg install curl</i><br>
-$ <i>git clone https://github.com/Edi-nasa47/DARK.git</i><br>
-$ <i>cd DARK</i><br>
+$ <i>git clone https://github.com/Edi-nasa47/DARK-FB.git</i><br>
+$ <i>cd DARK-FB</i><br>
 $ <i>pip2 install requests</i><br>
 $ <i>pip2 install mechanize</i><br><br>
 # <i>UNTUK CARA MENJALANKANYA</i><br>
