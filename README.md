@@ -1,1 +1,2 @@
-<i> HATI HATI AKUN ANDA KENA BLANK</i><br>
+<i> NOTE:</i><br>
+<i> jangan sampai akun Anda ke Kunci</i><br>
