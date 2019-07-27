@@ -9,6 +9,3 @@ $ <i>pip2 install requests</i><br>
 $ <i>pip2 install mechanize</i><br><br>
 # <i>UNTUK CARA MENJALANKANYA</i><br>
 $ <i>python2 dark.py</i><br>
-
-# <i>GAMBAR SCRENSHOOT</i><br>
-<img src='https://github.com/Edi-nasa47/DARK-FB/blob/master/screnshoot.jpg'/>
